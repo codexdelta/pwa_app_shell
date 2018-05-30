@@ -1,0 +1,15 @@
+{
+    "name": "My Powerful Progressive Web App",
+    "short_name": "PWApp",
+    "icons": [
+        {
+            "src": "icon-512x512.svg",
+            "sizes": "512x512",
+            "type": "image/svg"
+        }
+    ],
+    "start_url": "/index.html?homescreen=1",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#3F51B5"
+}
